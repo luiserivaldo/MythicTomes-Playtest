@@ -1,0 +1,27 @@
+node_modules/
+public/
+tsconfig.tsbuildinfo
+quartz/.quartz-cache/
+.obsidian/
+.wrangler/
+
+# Local instructions, handoffs, and assistant configuration never belong in this repository.
+AGENTS.md
+AGENTS.override.md
+HANDOFF.md
+MILESTONES.md
+CLAUDE.md
+GEMINI.md
+.agents/
+.codex/
+.claude/
+.continue/
+.cursor/
+.roo/
+.windsurf/
+.aider*
+.github/agents/
+.github/copilot-instructions.md
+.github/instructions/
+.github/prompts/
+docs/
