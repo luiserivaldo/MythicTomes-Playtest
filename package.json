@@ -8,7 +8,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MythicTomes/MythicTomesPlaytest.git"
+    "url": "https://github.com/MythicTomes/MythicTomes-Playtest.git"
   },
   "scripts": {
     "validate:public": "node scripts/validate-public.mjs",

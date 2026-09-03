@@ -161,7 +161,7 @@ plugins:
     enabled: true
     options:
       links:
-        Source: https://github.com/MythicTomes/MythicTomesPlaytest
+        Source: https://github.com/MythicTomes/MythicTomes-Playtest
         Licensing: /licensing
     layout:
       position: footer
