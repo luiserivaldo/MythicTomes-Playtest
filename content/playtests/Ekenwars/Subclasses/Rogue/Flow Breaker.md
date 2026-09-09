@@ -1,3 +1,12 @@
+---
+title: Flow Breaker
+author: Ekenwars
+tags:
+  - rogue
+  - subclass
+  - hongshan
+---
+
 ## Flow Breaker
 
 There are practitioners of a discipline that master the art of internal disruption, striking at the unseen currents that sustain life. Through precise blows to vital points, Flow Breakers redirect the flow of energy within the body—mending their own wounds, halting their foes’ movements, and severing the very forces that keep others alive. Whether trained in hidden monasteries or self-taught through brutal experience, Flowbreakers walk the line between healer and executioner, wielding the body’s inner pathways as both weapon and remedy.
