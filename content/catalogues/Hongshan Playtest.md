@@ -15,14 +15,10 @@ These homebrew rules are presented for playtesting. They are provisional and may
 
 Catalogue inclusion indicates that the rules text is ready for testing. Embedded art remains subject to separate provenance and publication approval.
 
-This catalogue contains player options and optional game mechanics only. It does not include Hongshan campaign notes, setting lore, NPCs, locations, encounters, or monsters.
-
-The catalogue indexes 37 canonical playtest files: 17 species, 12 subclasses, one magic item, and seven optional mechanics.
-
 ## Rules Baselines
 
 - The subclasses use the 2024 subclass level progression.
-- The species currently use a legacy-style ancestry framework that includes Ability Score Increases. They are not presented as 2024 species conversions.
+- The species currently use a legacy-style ancestry framework that includes Ability Score Increases for 2014 compatibility. Use the ability scores provided by background origin if using the 2024 rule set.
 - Musou Techniques and the Hongshan Weapon Expansion use the 2024 Weapon Mastery rules.
 
 ## Species
@@ -88,4 +84,4 @@ The catalogue indexes 37 canonical playtest files: 17 species, 12 subclasses, on
 
 ## Useful Playtest Feedback
 
-When reporting feedback, include the option used, character level, party size, encounter or scene, and the rule interaction that mattered. Note whether a feature was too strong, too weak, unclear, difficult to remember, or simply not fun to use.
+When reporting feedback, include the option used, character level, party size, encounter or scene, and the rule interaction that mattered. Note whether a feature was too strong, too weak, unclear, difficult to remember, or simply not fun to use. Have fun!
