@@ -1,3 +1,16 @@
+---
+title: Qilinborn
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Qilinborn
 
 Qilinborn are graceful, horned people whose ancestry is traced to benevolent nature spirits and the auspicious qilin of old tales. Their presence is often associated with peace, good fortune, and harmony. Within the Yuanlai Dominion, they are counted among the recognised Noble Races, and many traditions regard the arrival of a Qilinborn family as a favorable omen.

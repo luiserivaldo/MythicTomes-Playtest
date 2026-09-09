@@ -1,3 +1,16 @@
+---
+title: Yakshavira
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Yakshavira
 
 Yakshavira are mortals touched by the blessings of the heavenly realms. Such grace may arise from extraordinary virtue, the favor of a deity or heroic spirit, or an inheritance passed through a bloodline that has carried divine influence for generations. Whatever its origin, a Yakshavira bears a spark of something greater than themselves.

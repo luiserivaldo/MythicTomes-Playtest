@@ -1,3 +1,16 @@
+---
+title: Ancestry Patron
+author: Ekenwars
+category: Subclass
+subcategory: Warlock
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - warlock
+---
+
 ## Ancestry Patron
 
 You have formed a pact with the spirits of your ancestors. Whether through reverence, lineage, or obligation, your forebears guide your hand, protect your life, and shape your destiny.

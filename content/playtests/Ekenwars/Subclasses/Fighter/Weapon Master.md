@@ -1,3 +1,16 @@
+---
+title: Weapon Master
+author: Ekenwars
+category: Subclass
+subcategory: Fighter
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - fighter
+---
+
 ## Weapon Master (Fighter Subclass)
 
 A weapon master adapts fluidly in combat, switching weapons and techniques to exploit openings and maintain relentless pressure.

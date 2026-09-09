@@ -1,3 +1,16 @@
+---
+title: Yaozi (Yaoguai-born)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Yaozi (Yaoguai-born)
 
 Yaozi are people marked by curses, profane influence, or inherited spiritual corruption. Some were transformed by their own dealings with dangerous spirits or malevolent deities, others were cursed through no choice of their own, and some are born into bloodlines already touched by such forces.

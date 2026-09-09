@@ -1,3 +1,16 @@
+---
+title: Nagarai (Snakefolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Nagarai (Snakefolk)
 
 Nagarai are thoughtful and composed serpentine people associated throughout the Yuanlai Dominion with wisdom, renewal, and quiet ambition. They commonly embody the virtues of patience, careful observation, and an instinct for understanding the world before acting within it. Their measured manner often conceals sharp intelligence, strong convictions, and an ability to endure circumstances that would break others.

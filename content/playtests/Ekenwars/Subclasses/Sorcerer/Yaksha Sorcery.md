@@ -1,13 +1,19 @@
 ---
 title: Yaksha Sorcery
 author: Ekenwars
+category: Subclass
+subcategory: Sorcerer
+catalogues:
+  - Hongshan Playtest
 tags:
-  - sorcerer
-  - subclass
   - hongshan
+  - subclass
+  - sorcerer
 ---
+
 ![[assets/ekenwars/hongshan/yaksha_sorcerer-sevenknights_FengYang.png]]
-*Credit: Seven Knights (Netmarble) - Feng Yan*
+_Credit: Seven Knights (Netmarble) - Feng Yan_
+
 ## Yaksha Bloodline
 
 Sorcerers of the Yaksha bloodline descend from heroic spirits, ascended gods, and wrathful divine beings. Channeling their lineage, they enter a supernatural battle trance, enhancing their bodies with spiritual power and striking with both steel and sorcery.

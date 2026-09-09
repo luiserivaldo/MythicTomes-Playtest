@@ -1,3 +1,16 @@
+---
+title: Lone Ranger
+author: Ekenwars
+category: Subclass
+subcategory: Ranger
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - ranger
+---
+
 ### Lone Ranger
 
 Lone Rangers are hunters of dangerous individuals: outlaws, duelists, fugitives, and monsters clever enough to vanish into civilization or the wilds alike. They specialize in isolating a single quarry, reading its defenses in an instant, and answering violence with precise, punishing counterattacks.

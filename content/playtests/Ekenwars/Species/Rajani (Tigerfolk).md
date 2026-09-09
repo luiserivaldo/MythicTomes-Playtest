@@ -1,3 +1,16 @@
+---
+title: Rajani (Tigerfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Rajani (Tigerfolk)
 
 Rajani are regal and formidable tigerfolk, known for their commanding presence, fierce passions, and strong sense of personal dignity. Rajani tend to carry themselves with confidence and purpose, whether as respected heirs, wandering adventurers, devoted protectors, ambitious merchants, or individuals seeking to define their own legacy

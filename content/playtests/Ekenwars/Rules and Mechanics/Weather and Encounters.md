@@ -1,3 +1,16 @@
+---
+title: Weather and Encounters
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: General
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - general
+---
+
 # Weather and Encounters
 
 Use these rules when running wilderness travel, weather, and improvised travel encounters. Area-specific files, such as [[White Gate Travel]], provide the tables.

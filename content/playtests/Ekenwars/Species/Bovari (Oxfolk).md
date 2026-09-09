@@ -1,3 +1,16 @@
+---
+title: Bovari (Oxfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Bovari (Oxfolk)
 
 Bovari are steady, powerful oxfolk whose strength is most evident when a burden must be borne or a path must be broken. Their horns and unstoppable charge make them formidable defenders and laborers alike.

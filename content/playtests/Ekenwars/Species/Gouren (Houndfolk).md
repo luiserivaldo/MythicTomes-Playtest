@@ -1,3 +1,16 @@
+---
+title: Gouren (Houndfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Gouren (Houndfolk)
 
 Gouren are perceptive, sociable houndfolk known for their alertness, energy, and strong sense of companionship. Their communities often value mutual aid, quick coordination, and being present when others need them.

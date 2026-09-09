@@ -1,3 +1,16 @@
+---
+title: Phantomling
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 Phantomlings are ghostlike beings caught between life and death. They are neither truly living nor wholly undead, existing instead in an uneasy state of limbo as they wander the Material Plane. Some appear driven by a lingering purpose, while others seem to roam without understanding what still binds them to the world.
 
 A Phantomling usually resembles the form they possessed at the moment of death, though their body is no longer entirely physical. Their features may flicker in and out of clarity, becoming translucent during heightened emotions such as fear, grief, pain, or anger. Some drift a few inches above the ground rather than walking, as though their tether to the mortal world has weakened without being fully severed.

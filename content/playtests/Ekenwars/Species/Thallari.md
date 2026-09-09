@@ -1,3 +1,16 @@
+---
+title: Thallari
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 Thallari are enigmatic beings formed from pure elemental energy rather than born in the conventional sense. They emerge fully formed, each with an individual consciousness and will, though the exact process by which they come into existence remains poorly understood.
 
 Many Thallari are naturally amorphous, but most adopt slender humanoid forms when interacting with mortals. Even then, their bodies rarely appear entirely solid. Their shapes can seem to flicker, ripple, or shift according to mood, with limbs, hair, and other features blending into one another as though sculpted from moving flame, water, mist, stone, lightning, or other elemental matter. Artists often struggle to depict them clearly, as their forms create an impression of constant motion even while standing still.

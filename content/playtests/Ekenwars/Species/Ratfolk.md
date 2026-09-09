@@ -1,3 +1,16 @@
+---
+title: Ratfolk
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Ratfolk
 
 Once fabled to have won the great Zodiac Race, Ratfolk are said to have been blessed with ingenuity, adaptability, and uncommon fortune. Whether or not the old stories are true, Ratfolk have earned a reputation throughout the Yuanlai Dominion as resourceful people capable of making a life almost anywhere.

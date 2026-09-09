@@ -1,3 +1,16 @@
+---
+title: Vesperi (Batfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Vesperi (Batfolk)
 
 Vesperi are alert, nocturnal people who navigate the dark by sound as readily as sight. Their membranous wings carry them in brief, controlled flights through caves, ruins, and moonlit streets.

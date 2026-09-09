@@ -1,3 +1,16 @@
+---
+title: Circle of the Earthen Cycle
+author: Ekenwars
+category: Subclass
+subcategory: Druid
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - druid
+---
+
 ## Circle of the Earthen Cycle
 
 _Based on the Wuxing Five Elements, these druids cycle between five natural elements to attune themselves._

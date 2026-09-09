@@ -1,3 +1,16 @@
+---
+title: Shanyang (Goatfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Shanyang (Goatfolk)
 
 Shanyang are hardy, sure-footed people known for making homes and roads through places others would consider nearly impassable. Mountain paths, broken ridges, narrow ledges, and steep valleys are familiar terrain to them, and generations of Shanyang have built a reputation for treating dangerous climbs with casual confidence.

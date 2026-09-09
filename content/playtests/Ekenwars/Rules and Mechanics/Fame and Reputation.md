@@ -1,3 +1,16 @@
+---
+title: Fame and Reputation
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: General
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - general
+---
+
 ## Fame and Reputation
 
 Reputation measures how strongly a character, party, faction, or other entity is known for past deeds. It is a tool for tracking how the world reacts to the characters over time: who trusts them, who fears them, who remembers their victories, and who expects the worst from them.

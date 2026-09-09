@@ -1,3 +1,16 @@
+---
+title: Musou Techniques
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: Hongshan
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - hongshan-rules
+---
+
 # Musou Techniques (Optional Rule)
 
 Musou Techniques introduce a new layer of martial combat, allowing weapon users to strike multiple foes at once through sweeping, piercing, or explosive attacks inspired by battlefield combat and wuxia martial arts.

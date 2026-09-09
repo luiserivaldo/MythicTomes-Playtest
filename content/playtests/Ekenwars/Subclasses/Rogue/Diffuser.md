@@ -1,3 +1,16 @@
+---
+title: Diffuser
+author: Ekenwars
+category: Subclass
+subcategory: Rogue
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - rogue
+---
+
 ### Diffuser
 
 Rogues of the Diffuser archetype specialize in dispersal, turning toxins, alchemical agents, and subtle compounds into airborne threats. Whether through incense, smoke bombs, vaporized poisons, or unseen haze, a diffuser controls the battlefield by saturating the air itself.

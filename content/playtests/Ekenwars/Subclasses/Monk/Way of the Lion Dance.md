@@ -1,3 +1,16 @@
+---
+title: Way of the Lion Dance
+author: Ekenwars
+category: Subclass
+subcategory: Monk
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - monk
+---
+
 ### **Way of the Lion Dance**
 
 Lion Dance Monks embody the spirit of celebration, courage, and living motion, transforming martial arts into a breathtaking performance of strength and agility. Drawing inspiration from traditional lion dances, they weave acrobatics, rhythm, and ferocity into combat, leaping across the battlefield with flowing grace and explosive force.

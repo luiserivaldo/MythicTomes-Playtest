@@ -1,3 +1,16 @@
+---
+title: Calligrapher
+author: Ekenwars
+category: Subclass
+subcategory: Wizard
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - wizard
+---
+
 ### Calligrapher
 
 Wizards of the Calligrapher tradition practice the ancient art of inscribing magic into sacred script. Through brush, ink, and disciplined strokes, they bind arcane power into flowing glyphs, talismans, and written forms. Their spellbooks become living archives of prepared magic, where power is not only remembered—but stored, refined, and released with precision.

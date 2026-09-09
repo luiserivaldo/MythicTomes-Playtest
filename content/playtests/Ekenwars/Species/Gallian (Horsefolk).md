@@ -1,3 +1,16 @@
+---
+title: Gallian (Horsefolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Gallian (Horsefolk)
 
 Gallians are humanoids with equine features, long manes, and prominent tails. Their manes are often carefully groomed and decorated with braids, ribbons, beads, cords, or other ornaments. Different families and tribes are known for distinctive textures, lengths, colors, and styles of mane, which can serve as expressions of heritage, fashion, profession, or personal identity.

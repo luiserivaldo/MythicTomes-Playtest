@@ -1,3 +1,16 @@
+---
+title: Swinekin (Pigfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Swinekin (Pigfolk)
 
 Swinekin are broad-built, practical people with a reputation for appetite, resilience, and an uncanny instinct for opportunity. Their traditions often celebrate prosperity in tangible forms: a full table, a well-stocked home, a successful harvest, and the wisdom to recognize value where others might overlook it.

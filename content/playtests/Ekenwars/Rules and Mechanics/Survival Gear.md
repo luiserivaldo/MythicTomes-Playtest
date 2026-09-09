@@ -1,3 +1,16 @@
+---
+title: Survival Gear
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: General
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - general
+---
+
 **Survival Gear**
 
 Survival gear replaces lifestyle benefits while resting outside a settlement or in the wilderness.

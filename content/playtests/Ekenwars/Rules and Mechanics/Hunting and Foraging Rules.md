@@ -1,3 +1,16 @@
+---
+title: Hunting and Foraging Rules
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: General
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - general
+---
+
 # Hunting and Foraging Rules
 
 While in the wilderness and without sufficient rations, characters may attempt to hunt or forage for food.

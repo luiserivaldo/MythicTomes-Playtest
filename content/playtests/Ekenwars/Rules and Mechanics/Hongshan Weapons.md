@@ -1,3 +1,16 @@
+---
+title: Hongshan Weapon Expansion
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: Hongshan
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - hongshan-rules
+---
+
 ## Hongshan Weapon Expansion
 
 The following weapons expand [[Musou Techniques]] with additional weapon identities and custom properties.

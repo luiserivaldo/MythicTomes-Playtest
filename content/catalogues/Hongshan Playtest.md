@@ -1,3 +1,14 @@
+---
+title: Hongshan Playtest
+author: Ekenwars
+category: Catalogue
+subcategory: Playtest
+tags:
+  - hongshan
+  - catalogue
+  - playtest
+---
+
 # Hongshan Playtest Catalogue
 
 These homebrew rules are presented for playtesting. They are provisional and may change in response to playtest feedback.
@@ -16,60 +27,64 @@ The catalogue indexes 37 canonical playtest files: 17 species, 12 subclasses, on
 
 ## Species
 
-| Species | Playtest focus |
-| --- | --- |
-| [[Homebrew Vault/Races/Bovari (Oxfolk)]] | Charging, shoving, and physical power. |
-| [[Homebrew Vault/Races/Gallian (Horsefolk)]] | Overland speed, carrying power, and optional mounted play. |
-| [[Homebrew Vault/Races/Gouren (Houndfolk)]] | Rapid support and close coordination with allies. |
-| [[Homebrew Vault/Races/Longren (Dragonfolk)]] | Luck, temporary flight, and three dragon lineages. |
-| [[Homebrew Vault/Races/Nagarai (Snakefolk)]] | Poison resilience and layered recovery. |
-| [[Homebrew Vault/Races/Phantomling]] | Ghostly resilience, inherited movement, and a frightening presence. |
-| [[Homebrew Vault/Races/Qilinborn]] | Charm resistance and innate supportive magic. |
-| [[Homebrew Vault/Races/Rajani (Tigerfolk)]] | Mobility, climbing, and single-target pursuit. |
-| [[Homebrew Vault/Races/Ratfolk]] | Evasive Small and resilient Medium lineages. |
-| [[Homebrew Vault/Races/Shanyang (Goatfolk)]] | Climbing and resistance to forced movement. |
-| [[Homebrew Vault/Races/Swinekin (Pigfolk)]] | Short Rest recovery and two distinct lineages. |
-| [[Homebrew Vault/Races/Thallari]] | Elemental physiology, innate magic, and adaptive defenses. |
-| [[Homebrew Vault/Races/Ursaline (Bearfolk)]] | Durability, recovery, and powerful melee attacks. |
-| [[Homebrew Vault/Races/Vesperi (Batfolk)]] | Flight, keen hearing, and enhanced echolocation. |
-| [[Homebrew Vault/Races/Yakshavira]] | Three spirit lineages and a temporary manifestation. |
-| [[Homebrew Vault/Races/Yanmao (Fowlfolk)]] | Four lineages based on calls, display, speed, or balance. |
-| [[Homebrew Vault/Races/Yaozi (Yaoguai-born)]] | Fear, curse resilience, and cosmetic transformation. |
+<!-- prettier-ignore -->
+| Species                                              | Playtest focus                                                      |
+| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| [[playtests/Ekenwars/Species/Bovari (Oxfolk)\|Bovari (Oxfolk)]] | Charging, shoving, and physical power.                              |
+| [[playtests/Ekenwars/Species/Gallian (Horsefolk)\|Gallian (Horsefolk)]] | Overland speed, carrying power, and optional mounted play.          |
+| [[playtests/Ekenwars/Species/Gouren (Houndfolk)\|Gouren (Houndfolk)]] | Rapid support and close coordination with allies.                   |
+| [[playtests/Ekenwars/Species/Longren (Dragonfolk)\|Longren (Dragonfolk)]] | Luck, temporary flight, and three dragon lineages.                  |
+| [[playtests/Ekenwars/Species/Nagarai (Snakefolk)\|Nagarai (Snakefolk)]] | Poison resilience and layered recovery.                             |
+| [[playtests/Ekenwars/Species/Phantomling\|Phantomling]] | Ghostly resilience, inherited movement, and a frightening presence. |
+| [[playtests/Ekenwars/Species/Qilinborn\|Qilinborn]] | Charm resistance and innate supportive magic.                       |
+| [[playtests/Ekenwars/Species/Rajani (Tigerfolk)\|Rajani (Tigerfolk)]] | Mobility, climbing, and single-target pursuit.                      |
+| [[playtests/Ekenwars/Species/Ratfolk\|Ratfolk]] | Evasive Small and resilient Medium lineages.                        |
+| [[playtests/Ekenwars/Species/Shanyang (Goatfolk)\|Shanyang (Goatfolk)]] | Climbing and resistance to forced movement.                         |
+| [[playtests/Ekenwars/Species/Swinekin (Pigfolk)\|Swinekin (Pigfolk)]] | Short Rest recovery and two distinct lineages.                      |
+| [[playtests/Ekenwars/Species/Thallari\|Thallari]] | Elemental physiology, innate magic, and adaptive defenses.          |
+| [[playtests/Ekenwars/Species/Ursaline (Bearfolk)\|Ursaline (Bearfolk)]] | Durability, recovery, and powerful melee attacks.                   |
+| [[playtests/Ekenwars/Species/Vesperi (Batfolk)\|Vesperi (Batfolk)]] | Flight, keen hearing, and enhanced echolocation.                    |
+| [[playtests/Ekenwars/Species/Yakshavira\|Yakshavira]] | Three spirit lineages and a temporary manifestation.                |
+| [[playtests/Ekenwars/Species/Yanmao (Fowlfolk)\|Yanmao (Fowlfolk)]] | Four lineages based on calls, display, speed, or balance.           |
+| [[playtests/Ekenwars/Species/Yaozi (Yaoguai-born)\|Yaozi (Yaoguai-born)]] | Fear, curse resilience, and cosmetic transformation.                |
 
 ## Subclasses
 
-| Class | Subclass | Playtest focus |
-| --- | --- | --- |
-| Barbarian | [[Homebrew Vault/Subclasses/Barbarian/Path of the Warlord]] | Ally movement and battlefield commands while raging. |
-| Druid | [[Homebrew Vault/Subclasses/Druid/Circle of the Earthen Cycle]] | Elemental transient states and adaptive spellcasting. |
-| Fighter | [[Homebrew Vault/Subclasses/Fighter/Weapon Master]] | Weapon switching and multiple Weapon Mastery properties. |
-| Monk | [[Homebrew Vault/Subclasses/Monk/Way of the Bestial Art]] | Bestial combat styles, empowered strikes, and primal transformations. |
-| Monk | [[Homebrew Vault/Subclasses/Monk/Way of the Lion Dance]] | Jumps, aerial movement, and leaping strikes. |
-| Paladin | [[Homebrew Vault/Subclasses/Paladin/Oath of Karma]] | Balancing fortune and misfortune through karmic reactions and auras. |
-| Ranger | [[Homebrew Vault/Subclasses/Ranger/Lone Ranger]] | Pursuit, counterplay, and isolating a chosen target. |
-| Rogue | [[Homebrew Vault/Subclasses/Rogue/Diffuser]] | Alchemical fragrances and controllable mists. |
-| Rogue | [[Homebrew Vault/Subclasses/Rogue/Flow Breaker]] | Redirecting Sneak Attack dice to disrupt or restore a creature's flow. |
-| Sorcerer | [[Homebrew Vault/Subclasses/Sorcerer/Yaksha Sorcery]] | Manifested armaments, martial spellcasting, and divine transformation. |
-| Warlock | [[Homebrew Vault/Subclasses/Warlock/Ancestry Patron]] | Ancestral spirits that guide, guard, and prevent death. |
-| Wizard | [[Homebrew Vault/Subclasses/Wizard/Calligrapher]] | Inscribing spells into flexible, portable scripts. |
+<!-- prettier-ignore -->
+| Class     | Subclass                                                             | Playtest focus                                                         |
+| --------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Barbarian | [[playtests/Ekenwars/Subclasses/Barbarian/Path of the Warlord\|Path of the Warlord]] | Ally movement and battlefield commands while raging.                   |
+| Druid     | [[playtests/Ekenwars/Subclasses/Druid/Circle of the Earthen Cycle\|Circle of the Earthen Cycle]] | Elemental transient states and adaptive spellcasting.                  |
+| Fighter   | [[playtests/Ekenwars/Subclasses/Fighter/Weapon Master\|Weapon Master]] | Weapon switching and multiple Weapon Mastery properties.               |
+| Monk      | [[playtests/Ekenwars/Subclasses/Monk/Way of the Bestial Art\|Way of the Bestial Art]] | Bestial combat styles, empowered strikes, and primal transformations.  |
+| Monk      | [[playtests/Ekenwars/Subclasses/Monk/Way of the Lion Dance\|Way of the Lion Dance]] | Jumps, aerial movement, and leaping strikes.                           |
+| Paladin   | [[playtests/Ekenwars/Subclasses/Paladin/Oath of Karma\|Oath of Karma]] | Balancing fortune and misfortune through karmic reactions and auras.   |
+| Ranger    | [[playtests/Ekenwars/Subclasses/Ranger/Lone Ranger\|Lone Ranger]] | Pursuit, counterplay, and isolating a chosen target.                   |
+| Rogue     | [[playtests/Ekenwars/Subclasses/Rogue/Diffuser\|Diffuser]] | Alchemical fragrances and controllable mists.                          |
+| Rogue     | [[playtests/Ekenwars/Subclasses/Rogue/Flow Breaker\|Flow Breaker]] | Redirecting Sneak Attack dice to disrupt or restore a creature's flow. |
+| Sorcerer  | [[playtests/Ekenwars/Subclasses/Sorcerer/Yaksha Sorcery\|Yaksha Sorcery]] | Manifested armaments, martial spellcasting, and divine transformation. |
+| Warlock   | [[playtests/Ekenwars/Subclasses/Warlock/Ancestry Patron\|Ancestry Patron]] | Ancestral spirits that guide, guard, and prevent death.                |
+| Wizard    | [[playtests/Ekenwars/Subclasses/Wizard/Calligrapher\|Calligrapher]] | Inscribing spells into flexible, portable scripts.                     |
 
 ## Magic Items
 
-| Item | Playtest focus |
-| --- | --- |
-| [[Hongshan/Magic Items/Ashen Weapon]] | A simple uncommon weapon for fighting Fey, Fiends, and Undead. |
+<!-- prettier-ignore -->
+| Item                                             | Playtest focus                                                 |
+| ------------------------------------------------ | -------------------------------------------------------------- |
+| [[playtests/Ekenwars/Magic Items/Ashen Weapon\|Ashen Weapon]] | A simple uncommon weapon for fighting Fey, Fiends, and Undead. |
 
 ## Optional Mechanics
 
-| Rule | Playtest focus |
-| --- | --- |
-| [[Hongshan/Rules and Mechanics/Fame and Reputation]] | The clarity and impact of scoped Fame and Infamy modifiers. |
-| [[Hongshan/Rules and Mechanics/Hunting and Foraging Rules]] | Time cost, food yield, and failure complications. |
-| [[Hongshan/Rules and Mechanics/Hongshan Weapons]] | New weapon properties, masteries, and Musou associations. |
-| [[Hongshan/Rules and Mechanics/Musou Techniques]] | Multi-target martial actions, use limits, and Weapon Mastery tradeoffs. |
-| [[Hongshan/Rules and Mechanics/Settlement Rules and Lifestyle]] | Settlement services, lifestyle costs, and rest-based recovery. |
-| [[Hongshan/Rules and Mechanics/Survival Gear]] | Equipment choices for weather, travel, and wilderness hazards. |
-| [[Hongshan/Rules and Mechanics/Weather and Encounters]] | Travel pace, weather pressure, camp rest, and encounter procedures. |
+<!-- prettier-ignore -->
+| Rule                                                                       | Playtest focus                                                          |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[playtests/Ekenwars/Rules and Mechanics/Fame and Reputation\|Fame and Reputation]] | The clarity and impact of scoped Fame and Infamy modifiers.             |
+| [[playtests/Ekenwars/Rules and Mechanics/Hunting and Foraging Rules\|Hunting and Foraging Rules]] | Time cost, food yield, and failure complications.                       |
+| [[playtests/Ekenwars/Rules and Mechanics/Hongshan Weapons\|Hongshan Weapon Expansion]] | New weapon properties, masteries, and Musou associations.               |
+| [[playtests/Ekenwars/Rules and Mechanics/Musou Techniques\|Musou Techniques]] | Multi-target martial actions, use limits, and Weapon Mastery tradeoffs. |
+| [[playtests/Ekenwars/Rules and Mechanics/Settlement Rules and Lifestyle\|Settlement Rules and Lifestyle]] | Settlement services, lifestyle costs, and rest-based recovery.          |
+| [[playtests/Ekenwars/Rules and Mechanics/Survival Gear\|Survival Gear]] | Equipment choices for weather, travel, and wilderness hazards.          |
+| [[playtests/Ekenwars/Rules and Mechanics/Weather and Encounters\|Weather and Encounters]] | Travel pace, weather pressure, camp rest, and encounter procedures.     |
 
 ## Useful Playtest Feedback
 

@@ -1,3 +1,16 @@
+---
+title: Way of the Bestial Art
+author: Ekenwars
+category: Subclass
+subcategory: Monk
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - monk
+---
+
 The Way of the Bestial Art calls on the instincts of predatory beasts. Monks who follow this tradition shape their bodies and minds after their spirit animal, turning every movement into a reflection of primal ferocity, resilience, or cunning. Their fighting style is fluid, but always animalistic, allowing them to stalk, pounce, crush, or strike with venomous precision.
 
 #### Level 3: Bestial Art

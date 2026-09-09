@@ -1,3 +1,16 @@
+---
+title: Longren (Dragonfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Longren (Dragonfolk)
 
 Longren are an ancient and dignified people said to descend from the heavenly dragons of old. Within the Yuanlai Dominion, they are counted among the recognised Noble Races, carrying with them associations of divine grace, good fortune, authority, and enduring legacy.

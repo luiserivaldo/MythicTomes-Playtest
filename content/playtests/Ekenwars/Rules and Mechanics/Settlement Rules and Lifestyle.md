@@ -1,3 +1,16 @@
+---
+title: Settlement Rules and Lifestyle
+author: Ekenwars
+category: Rules and Mechanics
+subcategory: General
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - rules-and-mechanics
+  - general
+---
+
 **Settlement Rules and Lifestyle**
 While staying in a town or settlement, assume room and board is easily found and be paid in tiers. Lifestyles affect character interactions, with higher tiers possibly coming with gameplay rewards.
 

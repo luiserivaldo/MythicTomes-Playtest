@@ -1,10 +1,14 @@
 ---
 title: Flow Breaker
 author: Ekenwars
+category: Subclass
+subcategory: Rogue
+catalogues:
+  - Hongshan Playtest
 tags:
-  - rogue
-  - subclass
   - hongshan
+  - subclass
+  - rogue
 ---
 
 ## Flow Breaker

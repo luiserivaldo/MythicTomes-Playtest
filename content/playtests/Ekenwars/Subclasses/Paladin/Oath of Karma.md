@@ -1,3 +1,16 @@
+---
+title: Oath of Karma
+author: Ekenwars
+category: Subclass
+subcategory: Paladin
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - subclass
+  - paladin
+---
+
 ### Oath of Karma
 
 Paladins who swear the Oath of Karma uphold the balance between suffering and compassion. They believe every deed carries a consequence: mercy should be repaid with mercy, and cruelty should be answered with judgment.

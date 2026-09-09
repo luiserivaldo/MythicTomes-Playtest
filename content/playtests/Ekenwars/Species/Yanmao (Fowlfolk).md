@@ -1,3 +1,16 @@
+---
+title: Yanmao (Fowlfolk)
+author: Ekenwars
+category: Species
+subcategory: Legacy Species
+catalogues:
+  - Hongshan Playtest
+tags:
+  - hongshan
+  - species
+  - legacy-species
+---
+
 ## Yanmao (Fowlfolk)
 
 Yanmao are diverse, flightless birdfolk known for their vivid plumage, expressive voices, and strong traditions of performance and ceremony. Their calls can carry song, warning, celebration, rivalry, and emotion, and a skilled voice is often regarded as a source of considerable pride.
