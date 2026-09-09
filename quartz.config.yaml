@@ -185,6 +185,7 @@ plugins:
     enabled: true
     options:
       includeAll: false
+      collapsed: true
       includedProperties:
         - author
         - category

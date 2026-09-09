@@ -8,6 +8,8 @@ category: Author Index
 
 Created and designed by Ekenwars. Expand a category, then a subcategory where available, to browse the canonical playtest files.
 
+You can also browse these works from the [[playtests/index|Playtest Library]].
+
 <details>
 <summary><strong>Magic Items</strong></summary>
 
