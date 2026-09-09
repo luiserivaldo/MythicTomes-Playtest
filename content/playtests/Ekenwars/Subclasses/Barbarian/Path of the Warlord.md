@@ -11,6 +11,8 @@ tags:
   - barbarian
 ---
 
+## Path of the Warlord
+
 ### Warlord Berserker
 
 Warlord Berserkers are renowned both on and off the battlefield. Their presence commands fear and authority, and they are revered by allies and feared by enemies alike.

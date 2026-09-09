@@ -11,15 +11,15 @@ tags:
   - monk
 ---
 
-### **Way of the Lion Dance**
+### Way of the Lion Dance
 
 Lion Dance Monks embody the spirit of celebration, courage, and living motion, transforming martial arts into a breathtaking performance of strength and agility. Drawing inspiration from traditional lion dances, they weave acrobatics, rhythm, and ferocity into combat, leaping across the battlefield with flowing grace and explosive force.
 
-#### **Level 3 – Performer of the Lion**
+#### Level 3: Performer of the Lion
 
 You gain proficiency in the Performance skill. You can use Dexterity instead of Charisma for Performance checks involving dance, and you have advantage on such checks.
 
-#### **Level 3 – Leaping Strike**
+#### Level 3: Leaping Strike
 
 Your acrobatic movements allow you to strike with explosive momentum.
 
@@ -33,19 +33,19 @@ You can use Leaping Strike twice, and you regain all expended uses when you fini
 
 Your maximum number of uses increases as you gain Monk levels: three uses at level 11 and four uses at level 17.
 
-### **Level 6 – Pouncing Steps**
+### Level 6: Pouncing Steps
 
 Your footwork becomes light and explosive. When you use Step of the Wind, your jump distance is doubled until the end of the turn.
 
 If you use Leaping Strike after completing a jump of at least 20 feet, the attack deals additional damage equal to one Martial Arts die.
 
-### **Level 11 – Skyborne Dancer**
+### Level 11: Skyborne Dancer
 
 Your movements defy gravity. When you use Step of the Wind, you gain a flying speed equal to your movement speed until the end of the turn.
 
 Your long jump distance becomes 30 feet and your high jump becomes 20 feet.
 
-### **Level 17 – Dance of the Lion**
+### Level 17: Dance of the Lion
 
 You embody the flowing, relentless motion of the lion.
 

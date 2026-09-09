@@ -11,6 +11,8 @@ tags:
   - legacy-species
 ---
 
+## Ursaline
+
 Ursalines are powerful, solitary creatures who embody the strength and resilience of the great bears they resemble. They value solitude, self-reliance, and balance, often living in harmony with the wilderness. Calm and composed by nature, Ursalines can become an unstoppable force of fury when provoked, defending themselves and their territory with savage might.
 
 ### Ursaline Traits

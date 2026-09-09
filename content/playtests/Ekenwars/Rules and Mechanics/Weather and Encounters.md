@@ -11,11 +11,11 @@ tags:
   - general
 ---
 
-# Weather and Encounters
+## Weather and Encounters
 
 Use these rules when running wilderness travel, weather, and improvised travel encounters. Area-specific files, such as [[White Gate Travel]], provide the tables.
 
-## Travel Day Procedure
+### Travel Day Procedure
 
 1. Choose travel pace: slow, normal, or fast.
 2. Roll the day's weather.
@@ -25,7 +25,7 @@ Use these rules when running wilderness travel, weather, and improvised travel e
 
 Encounters do not need to be combat. They can be scenes, discoveries, hazards, social moments, hunting opportunities, or signs of nearby danger.
 
-## Travel Pace
+### Travel Pace
 
 These rules streamline travel into encounter pacing instead of tracking exact distance.
 
@@ -39,7 +39,7 @@ Official SRD reference: [SRD 5.1](https://media.wizards.com/2016/downloads/DND/S
 
 For this module, the fast pace minimum is 5 so hunting and other useful travel scenes remain possible.
 
-## Weather and Camp Rest
+### Weather and Camp Rest
 
 Weather determines travel difficulty, visibility, resource pressure, and camp quality.
 
@@ -47,7 +47,7 @@ At the end of a wilderness travel day, each character makes a Constitution savin
 
 Weather-imposed disadvantage on the Camp Rest save is cancelled if the character rests in any tier of tent or equivalent covered shelter.
 
-## Encounter Use
+### Encounter Use
 
 Area encounter tables are optional tools for improvised travel. Use them when the party is travelling without a planned scene, when weather or pace creates extra pressure, or when you want the road to feel active.
 
@@ -60,6 +60,6 @@ For bandit or beast encounters, use the party's average level as the baseline:
 
 A regular creature has a CR of half or lower than the party's average level. An elite creature has a CR equal to or above the party's average level, but no more than 5 above it.
 
-## Camp Events
+### Camp Events
 
 Before or during a long rest, the DM may roll once on the area's camp event table. If the event becomes hostile, strenuous, or meaningfully disruptive, it counts as 1 hour of activity and the party must begin a new uninterrupted long rest.

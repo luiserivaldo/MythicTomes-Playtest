@@ -11,6 +11,8 @@ tags:
   - uncommon
 ---
 
+## Ashen Weapon
+
 _Weapon (any), uncommon_
 
 This magic weapon is imbued with blessed protective ash used in Hongshan warding rites. Its edge, haft, or striking surface bears a pale residue that does not wash away through ordinary use.

@@ -11,17 +11,17 @@ tags:
   - hongshan-rules
 ---
 
-# Musou Techniques (Optional Rule)
+## Musou Techniques (Optional Rule)
 
 Musou Techniques introduce a new layer of martial combat, allowing weapon users to strike multiple foes at once through sweeping, piercing, or explosive attacks inspired by battlefield combat and wuxia martial arts.
 
 This system is designed to give martial characters greater presence in multi-target scenarios without relying on magic.
 
-## Learning a Musou Technique
+### Learning a Musou Technique
 
 When a feat or class feature grants you a **Weapon Mastery**, you can instead choose to gain access to a **Musou Technique property** of your choice. The Musou Technique must be one associated with a weapon with which you have proficiency.
 
-## Performing a Musou Technique
+### Performing a Musou Technique
 
 **Action Economy.** Starting at level 5, once per turn when you take the Attack action, you can replace one of your weapon attacks with a Musou Technique. You must have at least one level in Barbarian, Fighter, Monk, Paladin, Ranger, or Rogue to perform a Musou Technique.
 
