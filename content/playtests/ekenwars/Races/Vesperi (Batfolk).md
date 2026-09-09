@@ -16,4 +16,4 @@ As a Vesperan, you have the following traits.
 - **Echolocation.** You have Blindsight with a range of 10 feet. You can't use this Blindsight while Deafened.
 - **Enhanced Echolocation.** As a Bonus Action, you can increase the range of your Blindsight to 60 feet for one minute. While enhanced in this way, you have vulnerability to thunder damage. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Short or Long Rest.
 
-![[Homebrew Vault/Images/Races/Vesperi (Batfolk)/vesperi-batfolk-poster.png|519]]
+![[assets/ekenwars/hongshan/vesperi-batfolk-poster.png|519]]

@@ -25,4 +25,4 @@ As a Nagarai, you have the following traits.
 - **Resting Coil.** At the end of a Short or Long Rest, you can gain temporary hit points equal to your Proficiency Bonus + your Constitution modifier. Once you gain temporary hit points with this trait, you can't do so again until you finish a Long Rest.
 - **Subtle Rebirth.** When you are reduced to 0 Hit Points but not killed outright, you can expend one of your Hit Dice, roll it, and regain Hit Points equal to the number rolled + your Constitution modifier. Once you use this trait, you can't use it again until you finish a Long Rest.
 
-![[Homebrew Vault/Images/Races/Nagarai (Snakefolk)/nagarai-serpentine-martial.png|427]]
+![[assets/ekenwars/hongshan/nagarai-serpentine-martial.png|427]]

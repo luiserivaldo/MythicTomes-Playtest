@@ -22,4 +22,4 @@ As a Gouren, you have the following traits.
 - **Quick Retrieval.** On each of your turns, you can interact with up to two objects for free, but only to retrieve or drop an object.
 - **Allied Focus.** When you make an attack roll or ability check while an ally is within 5 feet of you, you can choose to have advantage on the roll. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest.
 
-![[Homebrew Vault/Images/Races/Gouren (Houndfolk)/gouren-character-poster.png|365]]
+![[assets/ekenwars/hongshan/gouren-character-poster.png|365]]

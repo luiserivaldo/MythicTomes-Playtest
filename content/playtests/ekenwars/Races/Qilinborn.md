@@ -24,4 +24,4 @@ As a Qilinborn, you have the following traits.
 - **Gentle Spirit.** You have advantage on saving throws against being Charmed.
 - **Qilin Magic.** You know the _Guidance_ cantrip. Starting at 3rd level, you can cast _Healing Word_ with this trait. Starting at 5th level, you can also cast _Calm Emotions_ with this trait. Once you cast either spell with this trait, you can't cast that spell with it again until you finish a Long Rest. Wisdom is your spellcasting ability for these spells.
 
-![[qilinborn-species.png|509]]
+![[assets/ekenwars/hongshan/qilinborn-species.png|509]]

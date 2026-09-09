@@ -41,4 +41,4 @@ As a Longren, you have the following traits.
 - **Skyborne Flight.** You can activate your Dragonflight without taking a Bonus Action during your turn. In addition, when you finish a Short Rest, you regain one expended use of Dragonflight.
 - **Enduring Flight.** When you use Dragonflight, it lasts for 1 hour.
 
-![[longren-species.png|445]]
+![[assets/ekenwars/hongshan/longren-species.png|445]]

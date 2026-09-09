@@ -31,4 +31,4 @@ As a Phantomling, you have the following traits.
 - **Frightful Presence.** As an action, you can unleash a ghastly scream that frightens nearby creatures. Choose a number of creatures within 30ft of you that can see or hear you. They must make a Wisdom saving throw (DC = 8 + your Charisma modifier + your proficiency bonus). On a failed save, they are frightened of you until the end of your next turn. Once you use this trait, you can't use it again until you finish a short or long rest.
 - **Languages.** You can speak, read, and write Common and one language of your choice.
 
-![[Homebrew Vault/Images/Races/Phantomling/phantomling-hero.png|386]]
+![[assets/ekenwars/hongshan/phantomling-hero.png|386]]

@@ -24,4 +24,4 @@ As a Rajani, you have the following traits.
 - **Stalker.** You have proficiency in the Stealth skill.
 - **Mark Prey.** As a Bonus Action, you can mark one creature you can see within 60 feet of you as your prey for 10 minutes. You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks to track your prey. Once per turn, when you deal damage to your prey with a weapon attack, you deal additional damage equal to your Strength modifier. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Short or Long Rest.
 
-![[Homebrew Vault/Images/Races/Rajani (Tigerfolk)/rajani-hunter-poster.png]]
+![[assets/ekenwars/hongshan/rajani-hunter-poster.png]]

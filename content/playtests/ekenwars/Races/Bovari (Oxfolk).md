@@ -25,4 +25,4 @@ As a Bovari, you have the following traits.
 - **Charging Horns.** If you move at least 10 feet straight, you can make an Unarmed Strike with your horns as an Attack Action at the end of that movement. The attack deals an extra 1d6 piercing damage for every 10 feet you moved, up to a maximum of 3d6 extra piercing damage. You can use this feature once on each of your turns.
 - **Driving Strike.** When you hit a creature with an Unarmed Strike, you can take the Shove action against that creature as part of the attack.
 
-![[Homebrew Vault/Images/Races/Bovari (Oxfolk)/bovari-character-poster.png|403]]
+![[assets/ekenwars/hongshan/bovari-character-poster.png|403]]

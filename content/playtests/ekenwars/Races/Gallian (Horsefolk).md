@@ -34,4 +34,4 @@ _Origin feat. Prerequisite: Gallian_
 - **Rider's Weight.** If your rider is Medium or the same size as you, your movement speed is halved.
 - **Shared Burden.** When your rider is about to take damage, you can use your Reaction to halve that damage. You take the remaining half of the damage.
 
-![[Homebrew Vault/Images/Races/Gallian (Horsefolk)/gallian-rider-poster.png]]
+![[assets/ekenwars/hongshan/gallian-rider-poster.png]]

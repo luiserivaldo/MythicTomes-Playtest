@@ -56,4 +56,4 @@ When you enhance your Bestial Empowerment in this way, you can apply your weapon
 
 - Viper: Your poisons and unarmed strikes ignore resistance to poison damage and to the poisoned condition. Creatures normally immune to poison damage or the poisoned condition are instead treated as resistant to poison damage from you, and they have advantage on saving throws to resist being poisoned by your features. In addition, you do not provoke opportunity attacks while you still have movement remaining on your turn.
 
-![[Homebrew Vault/Images/Subclasses/Monk/Way of the Bestial Art/way-of-the-bestial-art--cover.png|479]]
+![[assets/ekenwars/hongshan/way-of-the-bestial-art--cover.png|479]]

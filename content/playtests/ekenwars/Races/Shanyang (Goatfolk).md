@@ -24,4 +24,4 @@ As a Shanyang, you have the following traits.
 - **Horns.** Your horns are natural melee weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal 1d6 + your Strength modifier bludgeoning damage, instead of the normal damage for an Unarmed Strike.
 - **Sure-Footed.** You have advantage on Dexterity saving throws you make to avoid being moved against your will or knocked Prone.
 
-![[Homebrew Vault/Images/Races/Goatfolk/goatfolk-climber.png|354]]
+![[assets/ekenwars/hongshan/goatfolk-climber.png|354]]

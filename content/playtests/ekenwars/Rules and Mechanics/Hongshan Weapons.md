@@ -20,7 +20,7 @@ The following weapons expand [[Musou Techniques]] with additional weapon identit
 | Meteor Hammer       | 1d8 Bludgeoning | Reach, Two-Handed, **Lashing**                                             | Slow          | Bounce          | 10 gp |
 | Chakram             | 1d6 Slashing    | Light, Finesse, Thrown (Range 30/60)                                       | **Returning** | Bounce          | 5 gp  |
 
-![[hongshan-weapons-reference.png]]
+![[assets/ekenwars/hongshan/hongshan-weapons-reference.png]]
 
 ### Hongshan Weapon Properties
 

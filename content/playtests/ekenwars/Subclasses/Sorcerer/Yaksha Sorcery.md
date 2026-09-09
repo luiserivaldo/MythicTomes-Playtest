@@ -1,4 +1,4 @@
-![[Homebrew Vault/Images/Subclasses/Sorcerer/Yaksha Sorcery/yaksha_sorcerer-sevenknights_FengYang.png]]
+![[assets/ekenwars/hongshan/yaksha_sorcerer-sevenknights_FengYang.png]]
 
 ## Yaksha Bloodline
 

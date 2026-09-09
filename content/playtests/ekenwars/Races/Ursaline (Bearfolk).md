@@ -16,4 +16,4 @@ As an Ursaline, you have these special traits.
 - **Effective Hibernation.** When you expend a Hit Die to regain hit points during a Short Rest, you regain 1 additional hit point for every die expended.
 - **Languages.** You can speak, read, and write Common and one language of your choice.
 
-![[Homebrew Vault/Images/Races/Ursaline (Bearfolk)/ursaline-martial-hero.png]]
+![[assets/ekenwars/hongshan/ursaline-martial-hero.png]]

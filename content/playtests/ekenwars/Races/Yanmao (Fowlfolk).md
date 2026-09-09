@@ -8,7 +8,7 @@ They can be found throughout the Yuanlai Dominion, though many prefer densely po
 
 Their natural grace and expressive nature have given Yanmao a strong presence in theatre, dance, music, ceremonial performance, and martial arts. Many traditions combine deliberate movement with elaborate plumage and carefully controlled vocal calls, turning even disciplined martial practice into a striking public spectacle.
 
-![[fowlfolk-four-subraces.png|554]]
+![[assets/ekenwars/hongshan/fowlfolk-four-subraces.png|554]]
 
 ### Yanmao Traits
 
@@ -50,4 +50,4 @@ Poised Yanmao train balance and measured movement until they can hold their grou
 - **Graceful Movement.** You have proficiency in the Acrobatics skill.
 - **Steady Stance.** You have advantage on saving throws you make to avoid being moved against your will or knocked Prone.
 
-![[Homebrew Vault/Images/Races/Fowlfolk/fowlfolk-dawncaller-poster.png|389]]
+![[assets/ekenwars/hongshan/fowlfolk-dawncaller-poster.png|389]]

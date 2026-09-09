@@ -28,7 +28,7 @@ Hardworking and sociable, Skitterlings are especially common within the Yuanlai 
 - **Small Frame.** You can occupy the space of a creature at least one size larger than you. While you occupy that space, you have disadvantage on attack rolls and saving throws, and other creatures have disadvantage on attack rolls against you.
 - **Skitter Away.** When a creature ends its turn within 5 feet of you, you can use your Reaction to move up to half your movement speed. This movement doesn't provoke opportunity attacks.
 
-![[ratfolk-skitterling-poster.png|329]]
+![[assets/ekenwars/hongshan/ratfolk-skitterling-poster.png|329]]
 
 ### Warrenward
 
@@ -42,4 +42,4 @@ Old stereotypes sometimes portray Warrenwards as secretive, calculating, or dist
 - **Moving Reflexes.** If you have moved during your turn, you have advantage on Dexterity saving throws until the start of your next turn.
 - **Hardy Constitution.** You have advantage on saving throws against poison and disease. Once per Long Rest, when you fail such a saving throw, you can choose to succeed instead.
 
-![[ratfolk-warrenward-species.png|372]]
+![[assets/ekenwars/hongshan/ratfolk-warrenward-species.png|372]]

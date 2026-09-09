@@ -33,4 +33,4 @@ Tuskborn have a reputation for strong tempers, fierce pride, and a willingness t
 - **Tusks.** Your tusks are natural melee weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal 1d6 + your Strength modifier piercing damage, instead of the normal damage and type for an Unarmed Strike.
 - **Tusk Charge.** If you move at least 20 feet in a straight line and land an Unarmed Strike using your tusks, you deal an additional 1d8 piercing damage.
 
-![[Homebrew Vault/Images/Races/Swinekin (Pigfolk)/swinekin-hearthborn-portrait.png|345]]
+![[assets/ekenwars/hongshan/swinekin-hearthborn-portrait.png|345]]
