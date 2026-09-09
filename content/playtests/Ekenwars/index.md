@@ -1,31 +1,30 @@
 ---
-title: Ekenwars
-author: Ekenwars
+title: Ekenwars Playtest
 category: Author Index
+description: Browse public playtest material attributed to Ekenwars.
 ---
 
-# List of Homebrew
+# Ekenwars Playtest
 
-Created and designed by Ekenwars. Expand a category, then a subcategory where available, to browse the canonical playtest files.
+Browse public playtest material attributed to [[authors/Ekenwars/index|Ekenwars]]. Return to the [[playtests/index|Playtest Library]] to browse all contributing authors.
 
-You can also browse these works from the [[playtests/Ekenwars/index|Ekenwars Playtest index]].
+## Magic Items
+
+### Uncommon
 
 <details>
-<summary><strong>Magic Items</strong></summary>
-
-<details>
-<summary>Uncommon</summary>
+<summary>Show uncommon magic items</summary>
 
 - [[playtests/Ekenwars/Magic Items/Ashen Weapon|Ashen Weapon]]
 
 </details>
-</details>
+
+## Rules and Mechanics
+
+### General
 
 <details>
-<summary><strong>Rules and Mechanics</strong></summary>
-
-<details>
-<summary>General</summary>
+<summary>Show general rules and mechanics</summary>
 
 - [[playtests/Ekenwars/Rules and Mechanics/Fame and Reputation|Fame and Reputation]]
 - [[playtests/Ekenwars/Rules and Mechanics/Survival Gear|Survival Gear]]
@@ -35,17 +34,20 @@ You can also browse these works from the [[playtests/Ekenwars/index|Ekenwars Pla
 
 </details>
 
+### Hongshan
+
 <details>
-<summary>Hongshan</summary>
+<summary>Show Hongshan rules and mechanics</summary>
 
 - [[playtests/Ekenwars/Rules and Mechanics/Musou Techniques|Musou Techniques]]
 - [[playtests/Ekenwars/Rules and Mechanics/Hongshan Weapons|Hongshan Weapon Expansion]]
 
 </details>
-</details>
+
+## Species
 
 <details>
-<summary><strong>Species</strong></summary>
+<summary>Show species</summary>
 
 - [[playtests/Ekenwars/Species/Bovari (Oxfolk)|Bovari (Oxfolk)]]
 - [[playtests/Ekenwars/Species/Gallian (Horsefolk)|Gallian (Horsefolk)]]
@@ -67,78 +69,96 @@ You can also browse these works from the [[playtests/Ekenwars/index|Ekenwars Pla
 
 </details>
 
-<details>
-<summary><strong>Subclasses</strong></summary>
+## Subclasses
+
+### Barbarian
 
 <details>
-<summary>Barbarian</summary>
+<summary>Show Barbarian subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Barbarian/Path of the Warlord|Path of the Warlord]]
 
 </details>
 
+### Druid
+
 <details>
-<summary>Druid</summary>
+<summary>Show Druid subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Druid/Circle of the Earthen Cycle|Circle of the Earthen Cycle]]
 
 </details>
 
+### Fighter
+
 <details>
-<summary>Fighter</summary>
+<summary>Show Fighter subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Fighter/Weapon Master|Weapon Master]]
 
 </details>
 
+### Monk
+
 <details>
-<summary>Monk</summary>
+<summary>Show Monk subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Monk/Way of the Bestial Art|Way of the Bestial Art]]
 - [[playtests/Ekenwars/Subclasses/Monk/Way of the Lion Dance|Way of the Lion Dance]]
 
 </details>
 
+### Paladin
+
 <details>
-<summary>Paladin</summary>
+<summary>Show Paladin subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Paladin/Oath of Karma|Oath of Karma]]
 
 </details>
 
+### Ranger
+
 <details>
-<summary>Ranger</summary>
+<summary>Show Ranger subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Ranger/Lone Ranger|Lone Ranger]]
 
 </details>
 
+### Rogue
+
 <details>
-<summary>Rogue</summary>
+<summary>Show Rogue subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Rogue/Diffuser|Diffuser]]
 - [[playtests/Ekenwars/Subclasses/Rogue/Flow Breaker|Flow Breaker]]
 
 </details>
 
+### Sorcerer
+
 <details>
-<summary>Sorcerer</summary>
+<summary>Show Sorcerer subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Sorcerer/Yaksha Sorcery|Yaksha Sorcery]]
 
 </details>
 
+### Warlock
+
 <details>
-<summary>Warlock</summary>
+<summary>Show Warlock subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Warlock/Ancestry Patron|Ancestry Patron]]
 
 </details>
 
+### Wizard
+
 <details>
-<summary>Wizard</summary>
+<summary>Show Wizard subclasses</summary>
 
 - [[playtests/Ekenwars/Subclasses/Wizard/Calligrapher|Calligrapher]]
 
-</details>
 </details>
