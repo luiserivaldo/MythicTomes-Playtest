@@ -11,7 +11,9 @@ Author profiles identify the creator of each work and the terms that apply to it
 
 ## Catalogues
 
-Catalogues bring related material together without moving it from its author-owned home.
+Curated list of Homebrew, compiled according to theme or setting
+- [[Hongshan Playtest]] - A Chinese, Wuxia inspired setting. Rules and content for Martial combat and Musou/Horde style encounters.
+
 
 ## Updates
 

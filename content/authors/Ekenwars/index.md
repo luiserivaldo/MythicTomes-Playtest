@@ -1,144 +1,164 @@
 ---
-title: Ekenwars
-author: Ekenwars
+title: Ekenwars Playtest
 category: Author Index
+description: Browse public playtest material attributed to Ekenwars.
 ---
 
-# List of Homebrew
+# Ekenwars Playtest
 
-Created and designed by Ekenwars. Expand a category, then a subcategory where available, to browse the canonical playtest files.
+Browse public playtest material attributed to [[authors/Ekenwars/index|Ekenwars]]. Return to the [[playtests/index|Playtest Library]] to browse all contributing authors.
 
-You can also browse these works from the [[playtests/Ekenwars/index|Ekenwars Playtest index]].
+## Magic Items
 
-<details>
-<summary><strong>Magic Items</strong></summary>
-
-<details>
-<summary>Uncommon</summary>
-
-- [[playtests/Ekenwars/Magic Items/Ashen Weapon|Ashen Weapon]]
-
-</details>
-</details>
+### Uncommon
 
 <details>
-<summary><strong>Rules and Mechanics</strong></summary>
+<summary>Show uncommon magic items</summary>
 
-<details>
-<summary>General</summary>
-
-- [[playtests/Ekenwars/Rules and Mechanics/Fame and Reputation|Fame and Reputation]]
-- [[playtests/Ekenwars/Rules and Mechanics/Survival Gear|Survival Gear]]
-- [[playtests/Ekenwars/Rules and Mechanics/Weather and Encounters|Weather and Encounters]]
-- [[playtests/Ekenwars/Rules and Mechanics/Hunting and Foraging Rules|Hunting and Foraging Rules]]
-- [[playtests/Ekenwars/Rules and Mechanics/Settlement Rules and Lifestyle|Settlement Rules and Lifestyle]]
+- [[Ashen Weapon|Ashen Weapon]]
 
 </details>
 
-<details>
-<summary>Hongshan</summary>
+## Rules and Mechanics
 
-- [[playtests/Ekenwars/Rules and Mechanics/Musou Techniques|Musou Techniques]]
-- [[playtests/Ekenwars/Rules and Mechanics/Hongshan Weapons|Hongshan Weapon Expansion]]
-
-</details>
-</details>
+### General
 
 <details>
-<summary><strong>Species</strong></summary>
+<summary>Show general rules and mechanics</summary>
 
-- [[playtests/Ekenwars/Species/Bovari (Oxfolk)|Bovari (Oxfolk)]]
-- [[playtests/Ekenwars/Species/Gallian (Horsefolk)|Gallian (Horsefolk)]]
-- [[playtests/Ekenwars/Species/Gouren (Houndfolk)|Gouren (Houndfolk)]]
-- [[playtests/Ekenwars/Species/Longren (Dragonfolk)|Longren (Dragonfolk)]]
-- [[playtests/Ekenwars/Species/Nagarai (Snakefolk)|Nagarai (Snakefolk)]]
-- [[playtests/Ekenwars/Species/Phantomling|Phantomling]]
-- [[playtests/Ekenwars/Species/Qilinborn|Qilinborn]]
-- [[playtests/Ekenwars/Species/Rajani (Tigerfolk)|Rajani (Tigerfolk)]]
-- [[playtests/Ekenwars/Species/Ratfolk|Ratfolk]]
-- [[playtests/Ekenwars/Species/Shanyang (Goatfolk)|Shanyang (Goatfolk)]]
-- [[playtests/Ekenwars/Species/Swinekin (Pigfolk)|Swinekin (Pigfolk)]]
-- [[playtests/Ekenwars/Species/Thallari|Thallari]]
-- [[playtests/Ekenwars/Species/Ursaline (Bearfolk)|Ursaline (Bearfolk)]]
-- [[playtests/Ekenwars/Species/Vesperi (Batfolk)|Vesperi (Batfolk)]]
-- [[playtests/Ekenwars/Species/Yakshavira|Yakshavira]]
-- [[playtests/Ekenwars/Species/Yanmao (Fowlfolk)|Yanmao (Fowlfolk)]]
-- [[playtests/Ekenwars/Species/Yaozi (Yaoguai-born)|Yaozi (Yaoguai-born)]]
+- [[Fame and Reputation|Fame and Reputation]]
+- [[Survival Gear|Survival Gear]]
+- [[Weather and Encounters|Weather and Encounters]]
+- [[Hunting and Foraging Rules|Hunting and Foraging Rules]]
+- [[Settlement Rules and Lifestyle|Settlement Rules and Lifestyle]]
 
 </details>
 
-<details>
-<summary><strong>Subclasses</strong></summary>
+### Hongshan
 
 <details>
-<summary>Barbarian</summary>
+<summary>Show Hongshan rules and mechanics</summary>
 
-- [[playtests/Ekenwars/Subclasses/Barbarian/Path of the Warlord|Path of the Warlord]]
+- [[Musou Techniques|Musou Techniques]]
+- [[Hongshan Weapons|Hongshan Weapon Expansion]]
 
 </details>
 
-<details>
-<summary>Druid</summary>
+## Species
 
-- [[playtests/Ekenwars/Subclasses/Druid/Circle of the Earthen Cycle|Circle of the Earthen Cycle]]
+<details>
+<summary>Show species</summary>
+
+- [[Bovari (Oxfolk)|Bovari (Oxfolk)]]
+- [[Gallian (Horsefolk)|Gallian (Horsefolk)]]
+- [[Gouren (Houndfolk)|Gouren (Houndfolk)]]
+- [[Longren (Dragonfolk)|Longren (Dragonfolk)]]
+- [[Nagarai (Snakefolk)|Nagarai (Snakefolk)]]
+- [[Phantomling|Phantomling]]
+- [[Qilinborn|Qilinborn]]
+- [[Rajani (Tigerfolk)|Rajani (Tigerfolk)]]
+- [[Ratfolk|Ratfolk]]
+- [[Shanyang (Goatfolk)|Shanyang (Goatfolk)]]
+- [[Swinekin (Pigfolk)|Swinekin (Pigfolk)]]
+- [[Thallari|Thallari]]
+- [[Ursaline (Bearfolk)|Ursaline (Bearfolk)]]
+- [[Vesperi (Batfolk)|Vesperi (Batfolk)]]
+- [[Yakshavira|Yakshavira]]
+- [[Yanmao (Fowlfolk)|Yanmao (Fowlfolk)]]
+- [[Yaozi (Yaoguai-born)|Yaozi (Yaoguai-born)]]
 
 </details>
 
-<details>
-<summary>Fighter</summary>
+## Subclasses
 
-- [[playtests/Ekenwars/Subclasses/Fighter/Weapon Master|Weapon Master]]
+### Barbarian
+
+<details>
+<summary>Show Barbarian subclasses</summary>
+
+- [[Path of the Warlord|Path of the Warlord]]
 
 </details>
 
-<details>
-<summary>Monk</summary>
+### Druid
 
-- [[playtests/Ekenwars/Subclasses/Monk/Way of the Bestial Art|Way of the Bestial Art]]
-- [[playtests/Ekenwars/Subclasses/Monk/Way of the Lion Dance|Way of the Lion Dance]]
+<details>
+<summary>Show Druid subclasses</summary>
+
+- [[Circle of the Earthen Cycle|Circle of the Earthen Cycle]]
 
 </details>
 
-<details>
-<summary>Paladin</summary>
+### Fighter
 
-- [[playtests/Ekenwars/Subclasses/Paladin/Oath of Karma|Oath of Karma]]
+<details>
+<summary>Show Fighter subclasses</summary>
+
+- [[Weapon Master|Weapon Master]]
 
 </details>
 
-<details>
-<summary>Ranger</summary>
+### Monk
 
-- [[playtests/Ekenwars/Subclasses/Ranger/Lone Ranger|Lone Ranger]]
+<details>
+<summary>Show Monk subclasses</summary>
+
+- [[Way of the Bestial Art|Way of the Bestial Art]]
+- [[Way of the Lion Dance|Way of the Lion Dance]]
 
 </details>
 
-<details>
-<summary>Rogue</summary>
+### Paladin
 
-- [[playtests/Ekenwars/Subclasses/Rogue/Diffuser|Diffuser]]
-- [[playtests/Ekenwars/Subclasses/Rogue/Flow Breaker|Flow Breaker]]
+<details>
+<summary>Show Paladin subclasses</summary>
+
+- [[Oath of Karma|Oath of Karma]]
 
 </details>
 
-<details>
-<summary>Sorcerer</summary>
+### Ranger
 
-- [[playtests/Ekenwars/Subclasses/Sorcerer/Yaksha Sorcery|Yaksha Sorcery]]
+<details>
+<summary>Show Ranger subclasses</summary>
+
+- [[Lone Ranger|Lone Ranger]]
 
 </details>
 
-<details>
-<summary>Warlock</summary>
+### Rogue
 
-- [[playtests/Ekenwars/Subclasses/Warlock/Ancestry Patron|Ancestry Patron]]
+<details>
+<summary>Show Rogue subclasses</summary>
+
+- [[Diffuser|Diffuser]]
+- [[Flow Breaker|Flow Breaker]]
 
 </details>
 
-<details>
-<summary>Wizard</summary>
+### Sorcerer
 
-- [[playtests/Ekenwars/Subclasses/Wizard/Calligrapher|Calligrapher]]
+<details>
+<summary>Show Sorcerer subclasses</summary>
+
+- [[Yaksha Sorcery|Yaksha Sorcery]]
 
 </details>
+
+### Warlock
+
+<details>
+<summary>Show Warlock subclasses</summary>
+
+- [[Ancestry Patron|Ancestry Patron]]
+
+</details>
+
+### Wizard
+
+<details>
+<summary>Show Wizard subclasses</summary>
+
+- [[Calligrapher|Calligrapher]]
+
 </details>
