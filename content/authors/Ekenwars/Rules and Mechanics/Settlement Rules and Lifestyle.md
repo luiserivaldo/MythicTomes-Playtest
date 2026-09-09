@@ -12,6 +12,7 @@ tags:
 ---
 
 ## Settlement Rules and Lifestyle
+
 While staying in a town or settlement, assume room and board is easily found and be paid in tiers. Lifestyles affect character interactions, with higher tiers possibly coming with gameplay rewards.
 
 - Wretched (Free): Live on the streets, making camp with whatever is available. (-1 bonus)
